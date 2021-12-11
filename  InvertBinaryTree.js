@@ -19,7 +19,7 @@ var invertTree = function(root) {
     if(!(root && root.val != null)) return null;
     var temp = root.left ? invertTree(root.left) : null;
     root.left = root.right ? invertTree(root.right) : null;
-    root.left = temp;
+    root.right = temp;
     return root;
 };
 
