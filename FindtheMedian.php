@@ -1,3 +1,5 @@
+<?php
+
 // Problem Link
 // https://www.hackerrank.com/challenges/find-the-median/problem?isFullScreen=false
 
