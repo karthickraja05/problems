@@ -20,7 +20,9 @@ var threeSum = function(nums) {
     let result = [];
     
     for(let i = 0; i < n - 2; i++){
-        // console.log(i);
+        if(nums > 0){
+            break;
+        }
         if(nums[i] !== nums[i - 1]){
             b = i + 1; 
             c = n - 1; 
