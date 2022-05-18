@@ -19,6 +19,8 @@ let till90 = function(arr){
         first = arr[c];
     }
     console.log(arr1);
+
+    return arr1;
 }
 
 
