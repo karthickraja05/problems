@@ -1,11 +1,12 @@
-Problem Name: Single Number
+Problem Name: Remove Duplicates from Sorted Array
 Platform: Leet Code
-link: https://leetcode.com/problems/merge-two-sorted-lists/
+link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-Merging Two Linked List
+Problem title looks easy, but with condition it little diff
+Read Problem and try to solve it in your way
 
 Check My Solution From GitHub:
-https://github.com/karthickraja05/problems/blob/master/mergedTwoLinkedList.js
+
 
 Leet Code Profile:
 https://leetcode.com/karthickraja05/ 
