@@ -1,12 +1,9 @@
-Problem Name: Search Insert Position
+Problem Name: Plus One
 Platform: Leet Code
-Problem link: https://leetcode.com/problems/search-insert-position/
-
-Easy One
-Read Problem and try to solve it in your way.
+Problem link: https://leetcode.com/problems/plus-one/
 
 Check My Solution From GitHub:
-https://github.com/karthickraja05/problems/blob/master/searchInsertPosition.js
+https://github.com/karthickraja05/problems/blob/master/plusOne.js
 
 Leet Code Profile:
 https://leetcode.com/karthickraja05/ 
