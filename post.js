@@ -1,12 +1,12 @@
-Problem Name: Remove Duplicates from Sorted Array
+Problem Name: Search Insert Position
 Platform: Leet Code
-link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+Problem link: https://leetcode.com/problems/search-insert-position/
 
-Problem title looks easy, but with condition it little diff
+Easy One
 Read Problem and try to solve it in your way.
 
 Check My Solution From GitHub:
-https://github.com/karthickraja05/problems/blob/master/removeDuplicatedinSortedArr.js
+https://github.com/karthickraja05/problems/blob/master/searchInsertPosition.js
 
 Leet Code Profile:
 https://leetcode.com/karthickraja05/ 
